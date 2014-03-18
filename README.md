@@ -2,6 +2,8 @@
 
 >Yeoman Generator for Enterprise Angular + WebPack Projects
 
+## This is a Work In Progress.
+
 Features
 
 * Provides a directory structure geared towards large Angular projects.
