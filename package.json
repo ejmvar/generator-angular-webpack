@@ -1,22 +1,22 @@
 {
-  "name": "generator-cg-angular",
-  "version": "3.0.3",
-  "description": "Yeoman Generator for Enterprise Angular projects.",
+  "name": "generator-angular-webpack",
+  "version": "0.3.0",
+  "description": "Yeoman Generator for Enterprise Angular WebPack projects.",
   "keywords": [
     "yeoman-generator",
     "angular"
   ],
-  "homepage": "https://github.com/cgross/generator-cg-angular",
-  "bugs": "https://github.com/cgross/generator-cg-angular/issues",
+  "homepage": "https://github.com/gunta/generator-angular-webpack",
+  "bugs": "https://github.com/gunta/generator-angular-webpack/issues",
   "author": {
-    "name": "Chris Gross",
-    "email": "schtoo@schtoo.com",
-    "url": "https://github.com/cgross"
+    "name": "Gunther Brunner",
+    "email": "gunta85@gmail",
+    "url": "https://github.com/gunta"
   },
   "main": "app/index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/cgross/generator-cg-angular.git"
+    "url": "git://github.com/gunta/generator-angular-webpack.git"
   },
   "scripts": {
     "test": "mocha"
